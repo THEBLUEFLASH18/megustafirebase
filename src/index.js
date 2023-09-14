@@ -25,3 +25,5 @@ const provider = new GoogleAuthProvider();
 button.addEventListener('click', () =>{
   signInWithRedirect(auth, provider);
 });
+
+// Hello, World!
